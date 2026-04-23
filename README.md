@@ -25,7 +25,7 @@ const developer = {
   role:     "Full Stack Developer 🚀",
   location: "India 🇮🇳",
   code:     ["JavaScript", "Java", "TypeScript", "HTML", "CSS"],
-  tools:    ["React", "Node.js", "Spring Boot", "REST APIs", "Git"],
+  tools:    ["React", "Spring Boot", "REST APIs", "Git"],
   database: ["MongoDB", "MySQL", "PostgreSQL"],
   currentlyLearning: "System Design & Cloud ☁️",
   funFact:  "I debug with console.log() and I'm proud of it 😄",
