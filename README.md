@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Mohd%20Muvassir%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20%E2%9D%A4%EF%B8%8F%20Coffee%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Spring+Boot+%E2%9A%A1;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Spring+Boot+%E2%9A%A1;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
